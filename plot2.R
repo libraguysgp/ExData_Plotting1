@@ -2,6 +2,8 @@
 # R script (plot1.R):
 # Notes:
 # 1. The script only tested on windows 8.1 with R Studio only.
+# 2. This script will check and auto download the required dataset if not exist.
+# 3. The dataset and created PNG were stored in %userprofile%/Documents/04_Exploratory_Data_Analysis
 #==============================================================================
 
 #------------------------------------------------------------------------------
