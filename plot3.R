@@ -7,7 +7,7 @@
 #------------------------------------------------------------------------------
 # Define course project working directory
 #------------------------------------------------------------------------------
-setwd("D:/R/MOOC/")
+setwd("~")
 working.folder <- file.path(getwd(), '04_Exploratory_Data_Analysis')
 dir.create((working.folder), showWarnings = FALSE)
 setwd (working.folder)
